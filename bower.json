@@ -14,7 +14,7 @@
     "jquery"
   ],
   "dependencies": {
-    "jquery": "1.9.1"
+    "jquery": "~2.x"
   },
   "license": "MIT",
   "ignore": [
