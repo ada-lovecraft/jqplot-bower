@@ -1,0 +1,27 @@
+{
+  "name": "jqplot-bower",
+  "version": "1.0.8",
+  "homepage": "https://github.com/codevinsky/jqplot-bower",
+  "authors": [
+    "jdowell <jeremy@codevinsky.com>"
+  ],
+  "description": "A bower shim for jqPlot: Pure JavaScript plotting plugin for jQuery.",
+  "main": "dist/jquery.jqplot.min.js",
+  "keywords": [
+    "jqplot",
+    "chart",
+    "graphs",
+    "jquery"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
